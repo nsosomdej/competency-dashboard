@@ -1,0 +1,2 @@
+{ "name": "Competency Dashboard ฝ่ายการพยาบาล", "short_name": "Competency", "start_url": "./", "display": "standalone", "background_color": "#f4f7f7", "theme_color": "#0f5e6b",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }] }
